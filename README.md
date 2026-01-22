@@ -36,24 +36,16 @@ To ensure consistency, I established a comprehensive style guide before starting
 | **Iconography** | `Lucide Icons` | chosen for their clean stroke weights and readability. |
 | **Grid** | `12-Column` (Desktop) | Ensures responsiveness across different screen sizes. |
 
-### Visual Style Guide
-![Style Guide](assets/style-guide.png)
 
----
 
 ## 📱 Key Interfaces
 
 ### 1. The Landing Page
 Designed with a "Hero-First" approach. The navigation is minimized to focus user attention on the primary Call-to-Action (CTA).
 
-![Desktop Interface](assets/desktop-view.png)
 
 ### 2. Mobile Responsiveness
 The grid adapts from 3-columns to 1-column. Touch targets (buttons) are enlarged to 44px minimum for accessibility.
-
-<p align="center">
-  <img src="assets/mobile-view.png" width="300" alt="Mobile View" />
-</p>
 
 ---
 
